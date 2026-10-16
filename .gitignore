@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Triton JIT cache
+.triton/
+
+# Test / coverage
+.pytest_cache/
+.pytest-tmp/
+.coverage
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+gptq_results.txt
